@@ -120,6 +120,9 @@
     })
     .then(function (datos) {
       pildoras = Array.isArray(datos) ? datos : [];
+      pildoras = pildoras.slice().sort(function (a, b) {
+        return String(b.date || "").localeCompare(String(a.date || ""));
+      });
       if (!pildoras.length) {
         grilla.innerHTML = "<p class=\"vacio\">Todavía no hay píldoras para mostrar.</p>";
         return;

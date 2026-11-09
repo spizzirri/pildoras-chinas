@@ -5,11 +5,9 @@ Estas reglas valen para cualquier cambio futuro de este blog.
 ## Qué es
 Blog local de las píldoras de cultura china publicadas por el agente Chinito_cultura. Se lee como una grilla de tarjetas y una vista de detalle por píldora.
 
-## Ubicación
-El proyecto vive en `/home/damian/Documentos/laboratorio/chinito-cultura`. No tocar los otros proyectos de `laboratorio`.
-
 ## Contenido
 - Las píldoras se guardan en `pildoras.json`.
+- En la grilla y en la navegación, las píldoras se muestran ordenadas por `date` en orden descendente (la más nueva primero).
 - La vista de detalle se genera de forma dinámica con JavaScript nativo, leyendo ese JSON.
 - Cada píldora debe mencionar sus fuentes, con enlace cuando exista URL.
 - No inventar datos ni fuentes. Si una fuente no se puede verificar, no se agrega la píldora.
