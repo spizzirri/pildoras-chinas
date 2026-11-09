@@ -257,5 +257,51 @@
         "url": "https://www.chinadaily.com.cn/a/202601/05/WS695b1190a310d6866eb31ef7.html"
       }
     ]
+  },
+  {
+    "id": "2026-11-07-shou-zhu-dai-tu",
+    "date": "2026-11-07",
+    "category": "proverbios/chengyu",
+    "title": "守株待兔 shǒu zhū dài tù: guardar el tocón y esperar al conejo",
+    "emoji": "🐇",
+    "body": "Hoy te traigo un chengyu clásico: **守株待兔** (*shǒu zhū dài tù*).\n\nTraducción literal: «guardar el tocón y esperar al conejo».\n\nSale del *Han Feizi* (capítulo «Cinco plagas»), en la época de los Reinos Combatientes. Un campesino de Song estaba arando cuando un conejo, a full, se estrelló contra un tocón del campo y se mató. El tipo, contento con la suerte, largó el arado y se plantó al lado del tocón a esperar que otro conejo se volviera a estrellar. Obvio: no cayó ninguno más y quedó como el hazmerreír de Song.\n\nHoy se usa, en sentido peyorativo, para quien espera que la suerte le caiga sola, o se aferra a un método viejo sin adaptarse. Si te quedás quieto esperando que el proyecto se resuelva solo… ahí tenés tu 守株待兔.",
+    "image": "imagenes/shou-zhu-dai-tu.jpg",
+    "sources": [
+      {
+        "title": "Diccionario de chengyu del Ministerio de Educación de Taiwán",
+        "url": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=39"
+      },
+      {
+        "title": "Introduction to Classical Chinese — Lesson 2",
+        "url": "https://press.rebus.community/guwen/chapter/lesson-2/"
+      },
+      {
+        "title": "China Daily — 守株待兔",
+        "url": "https://language.chinadaily.com.cn/a/202405/27/WS66544e78a31082fc043c9626.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-08-hanyi-jie",
+    "date": "2026-11-08",
+    "category": "costumbres y festividades",
+    "title": "寒衣节 Hányī Jié: el Festival de la Ropa de Invierno",
+    "emoji": "🧥",
+    "body": "Mañana es **寒衣节** (*Hányī Jié*), el Festival de la Ropa de Invierno: el primer día del décimo mes lunar, que este año cae el 9 de noviembre.\n\nLa costumbre central es **送寒衣** (*sòng hányī*), «enviar ropa de abrigo» a los antepasados: se queman prendas de papel de colores para que, según la tradición, los familiares fallecidos no pasen frío al entrar el invierno. Es una celebración especialmente arraigada en el norte de China, no una práctica de todas las familias del país.\n\nEl *Clásico de la Poesía* ya menciona “九月授衣”, entregar ropa en el noveno mes, aunque esa referencia al abrigo no equivale todavía al festival posterior. Crónicas de la dinastía Ming describen a familias quemando ropa de papel de noche, frente a sus casas. Una leyenda popular también vincula la celebración con Meng Jiangnü, que llevó ropa de abrigo a su marido a la Gran Muralla.\n\nEl gesto tiene algo muy cotidiano: llega el frío y el cuidado por la familia incluye también a quienes ya no están.",
+    "image": "imagenes/hanyi-jie.jpg",
+    "sources": [
+      {
+        "title": "Universidad Normal de China Oriental: origen del 寒衣节",
+        "url": "https://www.ecnu.edu.cn/info/1425/64059.htm"
+      },
+      {
+        "title": "China Daily: Winter Clothing Festival",
+        "url": "https://global.chinadaily.com.cn/a/202511/20/WS691ec953a310d6866eb2a893_1.html"
+      },
+      {
+        "title": "Observatorio de Hong Kong: calendario lunar 2026",
+        "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/2026e.pdf"
+      }
+    ]
   }
 ]
