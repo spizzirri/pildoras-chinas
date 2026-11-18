@@ -303,5 +303,180 @@
         "url": "https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/2026e.pdf"
       }
     ]
+  },
+  {
+    "id": "2026-11-09-ciudad-prohibida",
+    "date": "2026-11-09",
+    "category": "historia",
+    "title": "La Ciudad Prohibida: cinco siglos de poder detrás de un muro",
+    "emoji": "🏯",
+    "body": "**🏯 La Ciudad Prohibida: cinco siglos de poder detrás de un muro**\n\nEn pleno centro de Beijing está el palacio imperial más famoso de China. Su nombre histórico es **紫禁城** (*Zǐjìnchéng*), y hoy casi siempre se lo llama **故宫** (*Gùgōng*), «el antiguo palacio».\n\nLa mandó construir el emperador Ming **Zhu Di**, conocido como Yongle, entre **1406 y 1420**. Durante unos cinco siglos fue la sede del poder imperial y la usaron **14 emperadores Ming y 10 Qing**, hasta el final de la última dinastía. Tiene casi **10.000 salas**, con muebles y obras de arte.\n\nEl diseño no es casual: todo se ordena sobre un **eje central**, con mucha simetría. Adelante está la corte exterior, dedicada al gobierno, y atrás la corte interior, donde vivía la familia imperial.\n\nEn 1925 se convirtió en el **Museo del Palacio**, que conserva más de un millón de piezas de la colección imperial. Desde 1987 es **Patrimonio de la Humanidad**.",
+    "image": "imagenes/ciudad-prohibida.jpg",
+    "sources": [
+      {
+        "title": "UNESCO: Palacios imperiales de las dinastías Ming y Qing",
+        "url": "https://whc.unesco.org/en/list/439/"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-kuaizi",
+    "date": "2026-11-10",
+    "category": "curiosidades",
+    "title": "Por qué a los palillos les dicen «los rápidos»",
+    "emoji": "🥢",
+    "body": "**🥢 Por qué a los palillos les dicen «los rápidos»**\n\nEn chino, los palillos son **筷子** (*kuàizi*), pero durante siglos se usó **箸** (*zhù*). El cambio viene de una superstición de barqueros. En el siglo XV, el letrado Ming Lu Rong anotó en *菽園雜記* que en la región de Wu, alrededor de Suzhou, quienes navegaban evitaban decir **住** (*zhù*, «detenerse»), porque era de mal agüero. Como 箸 sonaba igual, empezaron a llamar a los palillos **快兒**, «los rápidos», justo lo contrario de frenar. Después se le agregó arriba el radical del bambú y quedó **筷**.\n\nLos palillos en sí son mucho más antiguos: Britannica cuenta que en China ya existían durante la dinastía Shang. Hasta el inglés *chopsticks* tiene relación con esa idea, porque en el pidgin, *chop* significaba «rápido».\n\nUn tabú que sigue vigente: no claves los palillos parados en el **米饭** (*mǐfàn*, arroz), porque recuerdan al incienso de los funerales. 米饭 está en HSK 1, mientras que 筷子 aparece recién en HSK 3.",
+    "image": "imagenes/kuaizi.jpg",
+    "sources": [
+      {
+        "title": "Britannica: chopsticks",
+        "url": "https://www.britannica.com/topic/chopsticks"
+      },
+      {
+        "title": "The World of Chinese: historia de los palillos",
+        "url": "https://www.theworldofchinese.com/2019/07/chopped/"
+      },
+      {
+        "title": "菽園雜記, tomo 1, en Wikisource",
+        "url": "https://zh.wikisource.org/wiki/菽園雜記/卷01"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-11-guangchangwu",
+    "date": "2026-11-11",
+    "category": "vida cotidiana",
+    "title": "El baile de plaza: 广场舞 (guǎngchǎngwǔ)",
+    "emoji": "💃",
+    "body": "💃 **El baile de plaza: 广场舞 (*guǎngchǎngwǔ*)**\n\nSi caminás por una ciudad china temprano a la mañana o a la noche, es común encontrar en plazas y parques grupos grandes bailando al mismo tiempo, con música fuerte que sale de un parlante. Es el **广场舞**, el «baile de plaza». Muchas participantes son mujeres de mediana edad o jubiladas, a las que suele decírseles **大妈** (*dàmā*), algo así como «las tías». El 大 (*dà*, «grande») ya lo tenés de HSK 1.\n\nUn estudio académico lo relaciona con el **yangge**, una danza folklórica rural asociada con cosechas y fiestas, y estima que tiene unos **100 millones de participantes** en todo el país. Hay desde rutinas tipo aeróbic hasta baile de salón.\n\nEl ruido también generó conflictos con vecinos. En 2015, las autoridades chinas del deporte anunciaron **12 coreografías oficiales** y pautas sobre horarios y volumen. Según la BBC, para entonces el fenómeno ya había llegado a otros países, con grupos bailando incluso frente al Louvre y en la Plaza Roja.",
+    "image": "imagenes/guangchangwu.jpg",
+    "sources": [
+      {
+        "title": "BBC News: China orders square dancers to walk the line",
+        "url": "https://www.bbc.com/news/32033315"
+      },
+      {
+        "title": "BBC News: Dancing Grannies raise a ruckus",
+        "url": "https://www.bbc.com/news/blogs-china-blog-25330651"
+      },
+      {
+        "title": "International Journal of Communication: The Rise of Guangchangwu",
+        "url": "https://ijoc.org/index.php/ijoc/article/download/5607/2178/0"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-jing-di-zhi-wa",
+    "date": "2026-11-12",
+    "category": "proverbios/chengyu",
+    "title": "井底之蛙 jǐng dǐ zhī wā: la rana del fondo del pozo",
+    "emoji": "🐸",
+    "body": "**井底之蛙** (*jǐng dǐ zhī wā*) 🐸\nLiteral: «la rana del fondo del pozo».\n\nViene del *Zhuangzi*, del capítulo «Aguas de otoño» (*秋水*). Con las crecidas de otoño, el dios del río Amarillo se cree lo más grande del mundo… hasta que llega al mar del Norte y no le ve el fin. Ahí el espíritu del mar le dice: 井蛙不可以語於海, «a la rana del pozo no se le puede hablar del mar», porque está limitada por el lugar donde vive.\n\nEn el mismo capítulo hay otra escena. Una rana que vive en un pozo en ruinas invita a una tortuga del mar del Este a conocer su «reino». La tortuga no llega ni a meter la segunda pata. Cuando le describe el mar, la rana queda pasmada.\n\nHoy se usa para alguien de mirada estrecha que se cree que lo sabe todo. También sirve con humildad: **我是井底之蛙** («soy una rana de pozo; esto no lo conocía»).\n\nHay un chengyu muy cercano, **坐井观天** (*zuò jǐng guān tiān*), «sentarse en el pozo a mirar el cielo». De ese, 坐 y 天 ya los tenés en HSK 1.",
+    "image": "imagenes/jing-di-zhi-wa.jpg",
+    "sources": [
+      {
+        "title": "Zhuangzi, «Aguas de otoño» (莊子·秋水), en Wikisource",
+        "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E7%A7%8B%E6%B0%B4"
+      },
+      {
+        "title": "Diccionario de chengyu del Ministerio de Educación de Taiwán: 井底之蛙",
+        "url": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=380"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-13-xiayuan-jie",
+    "date": "2026-11-13",
+    "category": "costumbres y festividades",
+    "title": "下元节 Xiàyuán Jié: la fiesta del Funcionario del Agua",
+    "emoji": "🏮",
+    "body": "**🏮 下元节: la fiesta del Funcionario del Agua**\n\nEn 10 días, el **23 de noviembre**, cae el **下元节** (*Xiàyuán Jié*), el día 15 del décimo mes lunar. Es la última de las tres fiestas llamadas **三元节**: las otras dos son el 上元节, la Fiesta de los Faroles, y el 中元节, la fiesta de los fantasmas.\n\nViene del taoísmo. Entre la dinastía Han del Este y la época Wei-Jin se consolidó una tríada de funcionarios celestiales: el del Cielo concede bendiciones, el de la Tierra perdona las culpas y el del **Agua** (*水官*) «desata las desgracias». El 下元节 se asocia con el cumpleaños de este último; por eso también se lo presenta como un día para alejar la mala suerte.\n\nEn los templos taoístas se hacen ceremonias para alejar desgracias, y en algunas casas se preparan comidas para homenajear a los antepasados. En Keelung, Taiwán, se celebra como «谢平安», para agradecer la paz. También hay comidas regionales: en Beijing, bollitos de poroto rojo; en Chaoshan, los 米果 de harina de arroz.\n\nDesde la dinastía Qing la costumbre fue perdiendo fuerza, así que hoy incluso muchas personas en China la conocen poco.\n\nPara tu HSK 1: **水** (*shuǐ*, agua) y **下** (*xià*, abajo).",
+    "image": "imagenes/xiayuan-jie.jpg",
+    "sources": [
+      {
+        "title": "Red del Patrimonio Cultural Inmaterial de China: 下元节",
+        "url": "https://www.ihchina.cn/news_1_details/9756.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-14-da-yunhe",
+    "date": "2026-11-14",
+    "category": "historia",
+    "title": "El Gran Canal: la autopista de agua de la China imperial",
+    "emoji": "🏮",
+    "body": "**🏮 El Gran Canal: la autopista de agua de la China imperial**\n\nSegún la UNESCO, el Gran Canal fue la obra de ingeniería civil más grande y extensa del mundo antes de la Revolución Industrial. En chino es **大运河** (*Dà Yùnhé*). Del HSK 1 ya conocés **大** (*dà*, «grande»).\n\nVa de **Beijing a Hangzhou**, a lo largo de unos 1.800 km, y es la vía navegable artificial más larga del planeta. Los primeros tramos se cavaron en el **siglo V a.C.**, pero la idea de unir todos los tramos llegó con la **dinastía Sui**. Desde el año 605, el emperador Yang obligó a campesinos, esclavos y presos a trabajar en las obras, y murió muchísima gente.\n\n¿Para qué tanto esfuerzo? Para llevar el **arroz y otros granos** desde el sur fértil, en los valles del Yangtsé y del Huai, hasta las capitales y los ejércitos del norte. En el siglo XIII ya sumaba más de 2.000 km de vías artificiales que conectaban cinco grandes cuencas fluviales.\n\nEn el siglo XIX, las inundaciones del río Amarillo y las rebeliones lo dejaron en ruinas. Se restauró entre 1958 y 1964, todavía hoy lo recorren barcazas y desde 2014 es **Patrimonio de la Humanidad**.",
+    "image": "imagenes/da-yunhe.jpg",
+    "sources": [
+      {
+        "title": "UNESCO: The Grand Canal (Patrimonio Mundial)",
+        "url": "https://whc.unesco.org/en/list/1443/"
+      },
+      {
+        "title": "Encyclopaedia Britannica: Grand Canal, China",
+        "url": "https://www.britannica.com/topic/Grand-Canal-China"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-15-fortune-cookie",
+    "date": "2026-11-15",
+    "category": "curiosidades",
+    "title": "La galletita de la suerte… no es china",
+    "emoji": "🥠",
+    "body": "**🥠 La galletita de la suerte… no es china**\n\nTerminás de comer en un restaurante chino de Estados Unidos y te traen la famosa *fortune cookie*, con su papelito adentro. Lo curioso es que en **中国** (*Zhōngguó*, China, una palabra de HSK 1) casi ni existe, y hace años que eso desconcierta a los turistas estadounidenses.\n\nLa investigadora japonesa Yasuko Nakamachi rastreó su origen hasta Japón. Cerca de un santuario en las afueras de Kioto, unas panaderías familiares todavía hacen a mano las *tsujiura senbei*, que son más grandes y oscuras y llevan sésamo y miso. También encontró una ilustración de 1878 de alguien horneándolas, décadas antes de que aparecieran las primeras en Estados Unidos.\n\nA California las llevaron inmigrantes japoneses. Durante la Segunda Guerra Mundial, cuando a los japoneses-estadounidenses los mandaron a campos de internamiento, sus panaderías cerraron y los emprendedores chino-estadounidenses se quedaron con el negocio. Hoy se hacen unas 3.000 millones por año, casi todas en Estados Unidos.\n\nO sea, parte de la «comida china» también se inventó afuera.",
+    "image": "imagenes/fortune-cookie.jpg",
+    "sources": [
+      {
+        "title": "The New York Times: el origen de la galletita de la suerte (Jennifer 8. Lee, 2008)",
+        "url": "https://www.nytimes.com/2008/01/16/travel/16iht-fortune.9260526.html"
+      },
+      {
+        "title": "History.com: The Surprising Origins of the Fortune Cookie",
+        "url": "https://www.history.com/articles/fortune-cookies-invented-chinese-japanese"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-16-changcheng",
+    "date": "2026-11-16",
+    "category": "historia",
+    "title": "La Gran Muralla y el mito de la Luna",
+    "emoji": "🧱",
+    "body": "**La Gran Muralla y el mito de la Luna** 🧱\n\nEn chino se llama **长城** (*Chángchéng*), «la muralla larga». Hacia el año 220 a.C., Qin Shi Huang, el mismo del ejército de terracota, mandó unir murallas que ya existían para armar un sistema de defensa contra las invasiones del norte. Las obras siguieron durante siglos, hasta la dinastía Ming (1368–1644), que construyó la parte más conocida. En total mide más de 20.000 km y va de Shanhaiguan, en Hebei, hasta Jiayuguan, en Gansu. Es Patrimonio de la Humanidad desde 1987.\n\n¿Y eso de que es lo único hecho por el hombre que se ve desde la Luna? Es un mito que se repite por lo menos desde 1938. El astronauta Alan Bean, del Apolo 12, contó que desde la Luna no se ve ninguna obra humana. Incluso desde una órbita baja cuesta muchísimo verla a simple vista, porque es angosta y tiene casi el mismo color que la tierra que la rodea. En noviembre de 2004, Leroy Chiao la fotografió desde la Estación Espacial con teleobjetivo, y ni él estaba seguro de que hubiera salido.\n\nLo más gracioso es que la ficha oficial de la UNESCO todavía dice que se ve desde la Luna.",
+    "image": "imagenes/changcheng.jpg",
+    "sources": [
+      {
+        "title": "UNESCO World Heritage Centre: The Great Wall",
+        "url": "https://whc.unesco.org/en/list/438/"
+      },
+      {
+        "title": "NASA: China's Wall Less Great in View from Space",
+        "url": "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf"
+      },
+      {
+        "title": "NASA: Great Wall (foto de la Expedición 10)",
+        "url": "https://www.nasa.gov/image-article/great-wall/"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-17-xiaoxue",
+    "date": "2026-11-17",
+    "category": "costumbres y festividades",
+    "title": "小雪 Xiǎoxuě: la nevada chica",
+    "emoji": "❄️",
+    "body": "❄️ **小雪 (*Xiǎoxuě*), «la nevada chica»**\n\nEste domingo empieza 小雪, el término solar número 20 de los 24 del calendario chino. Marca el momento en que el Sol llega a los 240° de longitud, que este año cae el **22 de noviembre a las 15:23 hora de Beijing**, o sea, a las 04:23 hora de Buenos Aires. **小** (*xiǎo*, «chico») es de tu HSK 1.\n\nEn esta época se hacen varias cosas:\n\n- **Embutidos y carne curada:** la temperatura baja de golpe y el aire se vuelve seco, así que en el campo es el mejor momento para preparar salchichas y carne curada para la Fiesta de la Primavera.\n- **Tortas de arroz glutinoso (糍粑 *cíbā*):** en partes del sur de China se comen en el décimo mes lunar. Antiguamente, los campesinos las ofrecían al «Dios del Buey».\n- **Matanza del cerdo:** el pueblo tujia empieza su fiesta de «matar el cerdo para celebrar el Año Nuevo», con sopa de cerdo fresco.\n- **Pescado al sol:** en el centro y el sur de Taiwán, los pescadores lo secan para el invierno, y en Budai (Chiayi) es temporada de lisas.\n- **Cordero hervido:** en Beijing es clásico comerlo cocido al instante en un caldo, al estilo fondue.\n\nBásicamente, China arma la despensa para el invierno.",
+    "image": "imagenes/xiaoxue.jpg",
+    "sources": [
+      {
+        "title": "Observatorio de Hong Kong: los 24 términos solares de 2026 (PDF)",
+        "url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf"
+      },
+      {
+        "title": "Visit Beijing (sitio oficial de turismo de Beijing): costumbres de 小雪",
+        "url": "https://english.visitbeijing.com.cn/article/47OOMMKW2hH"
+      }
+    ]
   }
 ]
